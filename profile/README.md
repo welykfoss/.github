@@ -9,11 +9,11 @@
 </h3>
 
 <h4 align="center">
-  <a href="https://welyk.tech">Site</a>
+  <a href="https://welyk.tech" target="_blank">Site</a>
   /
-  <a href="https://github.com/GuidoPenta/forloop-job-board">Jobs</a>
+  <a href="https://github.com/GuidoPenta/forloop-job-board" target="_blank">Jobs</a>
   /
-  <a href="https://tomorrowdevs.com/">Education</a>
+  <a href="https://tomorrowdevs.com/" target="_blank">Education</a>
 
 
 </h4>
